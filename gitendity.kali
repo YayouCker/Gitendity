@@ -1,0 +1,16 @@
+ # Kali Linux
+ 
+ [sudo] password for kali : $sudopasswd
+ read $sudopasswd
+ 
+ echo Name : $name
+ read $name
+ 
+ echo Gmail Account : $gmailacc
+ read $gmailacc
+ 
+ echo Gmail Password : $gmailpasswd
+ read $gmailpasswd
+ 
+ echo Birthday Date : $birthdaydate
+ read $birthdaydate
