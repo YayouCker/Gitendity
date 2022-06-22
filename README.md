@@ -1,2 +1,3 @@
 # Gitendity
 In this page (Gitendity) , i want to make a identity form with name , password ...
+(In line 3 , this is a fake authentification root password)
